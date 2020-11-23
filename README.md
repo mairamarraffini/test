@@ -1,2 +1,2 @@
 # test
-repo para probar como revertir un PR
+probando para hacer revert de un PR
